@@ -1,3 +1,8 @@
+# Material Design Iconfont
+
+This is a fork of the [material design icons](https://github.com/google/material-design-icons)
+by google, including only the font files for smaller distribution.
+
 # Material design icons
 
 Material design icons are the official [icon set](http://www.google.com/design/spec/style/icons.html#icons-system-icons) from Google that are designed under the [material design guidelines](http://www.google.com/design/spec).
